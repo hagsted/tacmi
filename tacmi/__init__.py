@@ -1,0 +1,1 @@
+from tacmi.version import __version__
